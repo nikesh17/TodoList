@@ -1,0 +1,1129 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "decouple",
+        "description": "decouple",
+        "isExtraImport": true,
+        "detail": "decouple",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "re_path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "routers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "get_schema_view",
+        "importPath": "drf_yasg.views",
+        "description": "drf_yasg.views",
+        "isExtraImport": true,
+        "detail": "drf_yasg.views",
+        "documentation": {}
+    },
+    {
+        "label": "openapi",
+        "importPath": "drf_yasg",
+        "description": "drf_yasg",
+        "isExtraImport": true,
+        "detail": "drf_yasg",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "importPath": "django.contrib.auth.admin",
+        "description": "django.contrib.auth.admin",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.admin",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "todofeature.models",
+        "description": "todofeature.models",
+        "isExtraImport": true,
+        "detail": "todofeature.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "todofeature.models",
+        "description": "todofeature.models",
+        "isExtraImport": true,
+        "detail": "todofeature.models",
+        "documentation": {}
+    },
+    {
+        "label": "Label",
+        "importPath": "todofeature.models",
+        "description": "todofeature.models",
+        "isExtraImport": true,
+        "detail": "todofeature.models",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "todofeature.models",
+        "description": "todofeature.models",
+        "isExtraImport": true,
+        "detail": "todofeature.models",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "todofeature.models",
+        "description": "todofeature.models",
+        "isExtraImport": true,
+        "detail": "todofeature.models",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "todofeature.models",
+        "description": "todofeature.models",
+        "isExtraImport": true,
+        "detail": "todofeature.models",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "todofeature.models",
+        "description": "todofeature.models",
+        "isExtraImport": true,
+        "detail": "todofeature.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "todo_list_view",
+        "importPath": "todofeature.views",
+        "description": "todofeature.views",
+        "isExtraImport": true,
+        "detail": "todofeature.views",
+        "documentation": {}
+    },
+    {
+        "label": "todo_add_view",
+        "importPath": "todofeature.views",
+        "description": "todofeature.views",
+        "isExtraImport": true,
+        "detail": "todofeature.views",
+        "documentation": {}
+    },
+    {
+        "label": "todo_edit_view",
+        "importPath": "todofeature.views",
+        "description": "todofeature.views",
+        "isExtraImport": true,
+        "detail": "todofeature.views",
+        "documentation": {}
+    },
+    {
+        "label": "todo_delete_view",
+        "importPath": "todofeature.views",
+        "description": "todofeature.views",
+        "isExtraImport": true,
+        "detail": "todofeature.views",
+        "documentation": {}
+    },
+    {
+        "label": "demo_for_ajax",
+        "importPath": "todofeature.views",
+        "description": "todofeature.views",
+        "isExtraImport": true,
+        "detail": "todofeature.views",
+        "documentation": {}
+    },
+    {
+        "label": "TaskViewSet",
+        "importPath": "todofeature.viewsets",
+        "description": "todofeature.viewsets",
+        "isExtraImport": true,
+        "detail": "todofeature.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "TaskForm",
+        "importPath": "todofeature.forms",
+        "description": "todofeature.forms",
+        "isExtraImport": true,
+        "detail": "todofeature.forms",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "TaskSerializer",
+        "importPath": "todofeature.serializers",
+        "description": "todofeature.serializers",
+        "isExtraImport": true,
+        "detail": "todofeature.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "AuthenticationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginView",
+        "importPath": "useraccount.views",
+        "description": "useraccount.views",
+        "isExtraImport": true,
+        "detail": "useraccount.views",
+        "documentation": {}
+    },
+    {
+        "label": "SignUpView",
+        "importPath": "useraccount.views",
+        "description": "useraccount.views",
+        "isExtraImport": true,
+        "detail": "useraccount.views",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "UserSignupForm",
+        "importPath": "useraccount.forms",
+        "description": "useraccount.forms",
+        "isExtraImport": true,
+        "detail": "useraccount.forms",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "todo.asgi",
+        "description": "todo.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "todo.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = config ('SECRET_KEY','django-insecure-^lgvzab11_wa@ls7ck%96##1o@k*26=u!^#$bgb0+dq08(0tq#')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "SECRET_KEY = config ('SECRET_KEY','django-insecure-^lgvzab11_wa@ls7ck%96##1o@k*26=u!^#$bgb0+dq08(0tq#')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    \"todofeature\",",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    \"todofeature\",\n    \"useraccount\",\n    \"rest_framework\",",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'todo.urls'",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "ROOT_URLCONF = 'todo.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR/\"templates\",],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR/\"templates\",],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'todo.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\n# DATABASES = {\n#     'default': {\n#         'ENGINE': 'django.db.backends.sqlite3',\n#         'NAME': BASE_DIR / 'db.sqlite3',\n#     }\n# }\nDATABASES = {",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "DATABASES = {\n    \"default\":{\n        \"ENGINE\":\"django.db.backends.postgresql_psycopg2\",\n        \"NAME\": config(\"DB_NAME\"),\n        \"USER\": config(\"DB_USER\"),\n        \"PASSWORD\": config(\"DB_PASSWORD\"),\n        \"HOST\": config(\"DB_HOST\"),\n        \"PORT\": config(\"DB_PORT\"),\n    }\n}",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS =[\n    BASE_DIR/\"staticfiles\",\n]",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS =[\n    BASE_DIR/\"staticfiles\",\n]\n# Default primary key field type",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS =[\n    BASE_DIR/\"staticfiles\",\n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS =[\n    BASE_DIR/\"staticfiles\",\n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATICFILES_DIRS =[\n    BASE_DIR/\"staticfiles\",\n]\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = \"useraccount.User\"\nLOGIN_REDIRECT_URL = \"todofeature:todo_list\"\nLOGOUT_REDIRECT_URL = \"todofeature:todo_list\"",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = \"useraccount.User\"\nLOGIN_REDIRECT_URL = \"todofeature:todo_list\"\nLOGOUT_REDIRECT_URL = \"todofeature:todo_list\"\nLOGIN_URL = \"user:login\"",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "AUTH_USER_MODEL = \"useraccount.User\"\nLOGIN_REDIRECT_URL = \"todofeature:todo_list\"\nLOGOUT_REDIRECT_URL = \"todofeature:todo_list\"\nLOGIN_URL = \"user:login\"",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = \"todofeature:todo_list\"\nLOGOUT_REDIRECT_URL = \"todofeature:todo_list\"\nLOGIN_URL = \"user:login\"",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGOUT_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "LOGOUT_REDIRECT_URL = \"todofeature:todo_list\"\nLOGIN_URL = \"user:login\"",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_URL",
+        "kind": 5,
+        "importPath": "todo.settings",
+        "description": "todo.settings",
+        "peekOfCode": "LOGIN_URL = \"user:login\"",
+        "detail": "todo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "schema_view",
+        "kind": 5,
+        "importPath": "todo.urls",
+        "description": "todo.urls",
+        "peekOfCode": "schema_view = get_schema_view(\n    openapi.Info(\n        title= \"TODO API\",\n        default_version=\"v1\",\n        description= \"This is API endpoints for TODO project.\"\n    ),\n    public = True,\n    permission_classes=[permissions.AllowAny,]\n)\nurlpatterns = [",
+        "detail": "todo.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "todo.urls",
+        "description": "todo.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path(\"\",include(\"todofeature.urls\", namespace=\"todofeature\")),\n    path(\"user/\", include(\"useraccount.urls\", namespace=\"user\")),\n    re_path(r'^swagger(?P<format>\\.json|\\.yaml)$',schema_view.without_ui(cache_timeout=0),name='schema-json'),\n    re_path(r'^swagger/$',schema_view.with_ui('swagger',cache_timeout=0),name='schema-swagger-ui'),\n    re_path(r'^redoc/$',schema_view.with_ui('redoc',cache_timeout=0),name='schema-redoc'),\n]\n# +static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "todo.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "todo.wsgi",
+        "description": "todo.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "todo.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "todofeature.migrations.0001_initial",
+        "description": "todofeature.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Category',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('created_at', models.DateTimeField(auto_now_add=True)),",
+        "detail": "todofeature.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserAdmin",
+        "kind": 6,
+        "importPath": "todofeature.admin",
+        "description": "todofeature.admin",
+        "peekOfCode": "class CustomUserAdmin(UserAdmin):\n    pass\n@admin.register(Task)\nclass TaskAdmin(admin.ModelAdmin):\n    list_display = (\"name\",\"priority\",\"task_date\",\"category\",\"is_done\")\n    list_filter = (\"priority\",)\n    search_fields =  (\"name\",\"category__name\",)\n@admin.register(Category)\nclass CategoryAdmin(admin.ModelAdmin):\n    list_display=(\"name\",)",
+        "detail": "todofeature.admin",
+        "documentation": {}
+    },
+    {
+        "label": "TaskAdmin",
+        "kind": 6,
+        "importPath": "todofeature.admin",
+        "description": "todofeature.admin",
+        "peekOfCode": "class TaskAdmin(admin.ModelAdmin):\n    list_display = (\"name\",\"priority\",\"task_date\",\"category\",\"is_done\")\n    list_filter = (\"priority\",)\n    search_fields =  (\"name\",\"category__name\",)\n@admin.register(Category)\nclass CategoryAdmin(admin.ModelAdmin):\n    list_display=(\"name\",)\n@admin.register(Label)\nclass LabelAdmin(admin.ModelAdmin):\n    list_display=(\"name\",)",
+        "detail": "todofeature.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryAdmin",
+        "kind": 6,
+        "importPath": "todofeature.admin",
+        "description": "todofeature.admin",
+        "peekOfCode": "class CategoryAdmin(admin.ModelAdmin):\n    list_display=(\"name\",)\n@admin.register(Label)\nclass LabelAdmin(admin.ModelAdmin):\n    list_display=(\"name\",)",
+        "detail": "todofeature.admin",
+        "documentation": {}
+    },
+    {
+        "label": "LabelAdmin",
+        "kind": 6,
+        "importPath": "todofeature.admin",
+        "description": "todofeature.admin",
+        "peekOfCode": "class LabelAdmin(admin.ModelAdmin):\n    list_display=(\"name\",)",
+        "detail": "todofeature.admin",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "todofeature.admin",
+        "description": "todofeature.admin",
+        "peekOfCode": "User = get_user_model()\n@admin.register(User)\nclass CustomUserAdmin(UserAdmin):\n    pass\n@admin.register(Task)\nclass TaskAdmin(admin.ModelAdmin):\n    list_display = (\"name\",\"priority\",\"task_date\",\"category\",\"is_done\")\n    list_filter = (\"priority\",)\n    search_fields =  (\"name\",\"category__name\",)\n@admin.register(Category)",
+        "detail": "todofeature.admin",
+        "documentation": {}
+    },
+    {
+        "label": "TodofeatureConfig",
+        "kind": 6,
+        "importPath": "todofeature.apps",
+        "description": "todofeature.apps",
+        "peekOfCode": "class TodofeatureConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'todofeature'",
+        "detail": "todofeature.apps",
+        "documentation": {}
+    },
+    {
+        "label": "TaskForm",
+        "kind": 6,
+        "importPath": "todofeature.forms",
+        "description": "todofeature.forms",
+        "peekOfCode": "class TaskForm(forms.ModelForm):\n    class Meta:\n        model = Task\n        fields = \"__all__\"\n        #exclude = (\"image\", )\n        # widgets = {\n        #     'name' : (forms.TextInput(attrs={'class':'form-control', 'placeholder':'Your Name'})),\n        #     'description' : (forms.Textarea(attrs={'class':'form-control', 'row':3, 'placeholder':'Write something....'})),\n        #     'image' : (forms.FileInput(attrs={'class':'form-control-2', 'id' : 'image_field'})),\n        #     'task_date' : (forms.SelectDateWidget),",
+        "detail": "todofeature.forms",
+        "documentation": {}
+    },
+    {
+        "label": "TimeStampModel",
+        "kind": 6,
+        "importPath": "todofeature.models",
+        "description": "todofeature.models",
+        "peekOfCode": "class TimeStampModel(models.Model):\n    created_at = models.DateTimeField(auto_now_add=True)\n    modified_at = models.DateTimeField(auto_now=True)\n    # to not create a physical table\n    class Meta:\n        abstract = True \nclass Category(TimeStampModel):\n    name =  models.CharField(max_length=255)\n    class Meta:\n        verbose_name = \"Category\"",
+        "detail": "todofeature.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "todofeature.models",
+        "description": "todofeature.models",
+        "peekOfCode": "class Category(TimeStampModel):\n    name =  models.CharField(max_length=255)\n    class Meta:\n        verbose_name = \"Category\"\n        verbose_name_plural =\"Categories\"\n    def __str__(self):\n        return self.name\nclass Label(TimeStampModel):\n    name = models.CharField(max_length=255)\n    def __str__(self):",
+        "detail": "todofeature.models",
+        "documentation": {}
+    },
+    {
+        "label": "Label",
+        "kind": 6,
+        "importPath": "todofeature.models",
+        "description": "todofeature.models",
+        "peekOfCode": "class Label(TimeStampModel):\n    name = models.CharField(max_length=255)\n    def __str__(self):\n        return self.name\nclass Priority(models.TextChoices):\n    LOWEST = \"lowest\", \"Lowest\"\n    LOW = \"low\", \"Low\"\n    MEDIUM = \"medium\",\"Medium\"\n    HIGH = \"high\", \"High\"\n    HIGHEST = \"highest\",\"Highest\"",
+        "detail": "todofeature.models",
+        "documentation": {}
+    },
+    {
+        "label": "Priority",
+        "kind": 6,
+        "importPath": "todofeature.models",
+        "description": "todofeature.models",
+        "peekOfCode": "class Priority(models.TextChoices):\n    LOWEST = \"lowest\", \"Lowest\"\n    LOW = \"low\", \"Low\"\n    MEDIUM = \"medium\",\"Medium\"\n    HIGH = \"high\", \"High\"\n    HIGHEST = \"highest\",\"Highest\"\nclass Task(TimeStampModel):\n    name = models.CharField(max_length=255)\n    description = models.TextField(blank=True, null=True) #blank for html, null for database\n    image = models.ImageField(upload_to=\"todolist\", blank=True, null=True)",
+        "detail": "todofeature.models",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "kind": 6,
+        "importPath": "todofeature.models",
+        "description": "todofeature.models",
+        "peekOfCode": "class Task(TimeStampModel):\n    name = models.CharField(max_length=255)\n    description = models.TextField(blank=True, null=True) #blank for html, null for database\n    image = models.ImageField(upload_to=\"todolist\", blank=True, null=True)\n    task_date = models.DateField(blank=True, null=True)\n    priority = models.CharField(max_length=100, choices = Priority.choices, default = Priority.LOWEST)\n    category = models.ForeignKey(Category, on_delete=models.SET_NULL, blank=True, null=True)\n    labels =  models.ManyToManyField(Label, blank = True)\n    is_done = models.BooleanField(default=False)\n    def __str__(self):",
+        "detail": "todofeature.models",
+        "documentation": {}
+    },
+    {
+        "label": "TaskSerializer",
+        "kind": 6,
+        "importPath": "todofeature.serializers",
+        "description": "todofeature.serializers",
+        "peekOfCode": "class TaskSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Task\n        fields = (\"name\",\"description\",\"image\",\"task_date\",\"priority\",\"category\",\"is_done\",)",
+        "detail": "todofeature.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "todofeature.urls",
+        "description": "todofeature.urls",
+        "peekOfCode": "app_name = \"todofeature\"\nrouter = routers.SimpleRouter()\nrouter.register(\"todo-api\", TaskViewSet, basename=\"tasks\")\nurlpatterns = [\n    path(\"\",todo_list_view, name = \"todo_list\"),\n    path(\"todo-add/\",todo_add_view, name=\"todo_add\"),\n    path(\"todo-edit/<int:taskid>/\", todo_edit_view, name=\"todo_edit\"),\n    path(\"todo-delete/\", todo_delete_view, name=\"todo_delete\"),\n    path(\"demo-for-ajax/\",demo_for_ajax, name=\"demo_for_ajax\"),\n    path(\"api/\",include(router.urls)),",
+        "detail": "todofeature.urls",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "todofeature.urls",
+        "description": "todofeature.urls",
+        "peekOfCode": "router = routers.SimpleRouter()\nrouter.register(\"todo-api\", TaskViewSet, basename=\"tasks\")\nurlpatterns = [\n    path(\"\",todo_list_view, name = \"todo_list\"),\n    path(\"todo-add/\",todo_add_view, name=\"todo_add\"),\n    path(\"todo-edit/<int:taskid>/\", todo_edit_view, name=\"todo_edit\"),\n    path(\"todo-delete/\", todo_delete_view, name=\"todo_delete\"),\n    path(\"demo-for-ajax/\",demo_for_ajax, name=\"demo_for_ajax\"),\n    path(\"api/\",include(router.urls)),\n]",
+        "detail": "todofeature.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "todofeature.urls",
+        "description": "todofeature.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\",todo_list_view, name = \"todo_list\"),\n    path(\"todo-add/\",todo_add_view, name=\"todo_add\"),\n    path(\"todo-edit/<int:taskid>/\", todo_edit_view, name=\"todo_edit\"),\n    path(\"todo-delete/\", todo_delete_view, name=\"todo_delete\"),\n    path(\"demo-for-ajax/\",demo_for_ajax, name=\"demo_for_ajax\"),\n    path(\"api/\",include(router.urls)),\n]",
+        "detail": "todofeature.urls",
+        "documentation": {}
+    },
+    {
+        "label": "todo_list_vie",
+        "kind": 2,
+        "importPath": "todofeature.views",
+        "description": "todofeature.views",
+        "peekOfCode": "def todo_list_view (request):\n    tasks = Task.objects.all().order_by(\"id\")\n    context = {\"tasks\": tasks}\n    return render(request,\"todo_list.html\", context)\n@login_required\ndef todo_add_view(request):\n    # print(request.POST)\n    form = TaskForm(request.POST or None)\n    if form.is_valid():\n        form.save()",
+        "detail": "todofeature.views",
+        "documentation": {}
+    },
+    {
+        "label": "todo_add_view",
+        "kind": 2,
+        "importPath": "todofeature.views",
+        "description": "todofeature.views",
+        "peekOfCode": "def todo_add_view(request):\n    # print(request.POST)\n    form = TaskForm(request.POST or None)\n    if form.is_valid():\n        form.save()\n        return HttpResponseRedirect(reverse(\"todofeature:todo_list\"))\n    return render(request, \"add_todo.html\", {'form':form})\ndef todo_edit_view(request, taskid):\n    task = get_object_or_404(Task, id = taskid)\n    # try:",
+        "detail": "todofeature.views",
+        "documentation": {}
+    },
+    {
+        "label": "todo_edit_view",
+        "kind": 2,
+        "importPath": "todofeature.views",
+        "description": "todofeature.views",
+        "peekOfCode": "def todo_edit_view(request, taskid):\n    task = get_object_or_404(Task, id = taskid)\n    # try:\n    #     Task.objects.get(id=taskid)\n    # except Task.DoesNotExist:\n    #     raise Http404()\n    form = TaskForm(request.POST or None, instance=task)\n    if form.is_valid():\n        form.save()\n        return HttpResponseRedirect(reverse(\"todofeature:todo_list\"))",
+        "detail": "todofeature.views",
+        "documentation": {}
+    },
+    {
+        "label": "todo_delete_view",
+        "kind": 2,
+        "importPath": "todofeature.views",
+        "description": "todofeature.views",
+        "peekOfCode": "def todo_delete_view(request):\n    taskid = request.POST.get('taskid')\n    task = get_object_or_404(Task,id=taskid)\n    task.delete()\n    return HttpResponseRedirect(reverse(\"todofeature:todo_list\"))\ndef demo_for_ajax(request):\n    data = {\"name\": \"Ram\", \"address\": \"Kathmandu\"}\n    return JsonResponse(data, safe=False)",
+        "detail": "todofeature.views",
+        "documentation": {}
+    },
+    {
+        "label": "demo_for_ajax",
+        "kind": 2,
+        "importPath": "todofeature.views",
+        "description": "todofeature.views",
+        "peekOfCode": "def demo_for_ajax(request):\n    data = {\"name\": \"Ram\", \"address\": \"Kathmandu\"}\n    return JsonResponse(data, safe=False)",
+        "detail": "todofeature.views",
+        "documentation": {}
+    },
+    {
+        "label": "TaskViewSet",
+        "kind": 6,
+        "importPath": "todofeature.viewsets",
+        "description": "todofeature.viewsets",
+        "peekOfCode": "class TaskViewSet(viewsets.ModelViewSet):\n    queryset = Task.objects.all()\n    serializer_class = TaskSerializer",
+        "detail": "todofeature.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "useraccount.migrations.0001_initial",
+        "description": "useraccount.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "useraccount.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "UseraccountConfig",
+        "kind": 6,
+        "importPath": "useraccount.apps",
+        "description": "useraccount.apps",
+        "peekOfCode": "class UseraccountConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'useraccount'",
+        "detail": "useraccount.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserSignupForm",
+        "kind": 6,
+        "importPath": "useraccount.forms",
+        "description": "useraccount.forms",
+        "peekOfCode": "class UserSignupForm(UserCreationForm):\n    class Meta:\n        model = User\n        fields = (\"username\",\"password1\",\"password2\",)",
+        "detail": "useraccount.forms",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "useraccount.forms",
+        "description": "useraccount.forms",
+        "peekOfCode": "User = get_user_model()\nclass UserSignupForm(UserCreationForm):\n    class Meta:\n        model = User\n        fields = (\"username\",\"password1\",\"password2\",)",
+        "detail": "useraccount.forms",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "useraccount.models",
+        "description": "useraccount.models",
+        "peekOfCode": "class User(AbstractUser):\n    address = models.CharField(max_length=255, blank=True, null=True)\n    contact = models.CharField(max_length=255, blank=True, null=True)",
+        "detail": "useraccount.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "useraccount.urls",
+        "description": "useraccount.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"login/\", UserLoginView.as_view(), name=\"login\"),\n    path(\"logout/\", LogoutView.as_view(), name=\"logout\"),\n    path(\"register/\", SignUpView.as_view(), name=\"register\"),\n]",
+        "detail": "useraccount.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginView",
+        "kind": 6,
+        "importPath": "useraccount.views",
+        "description": "useraccount.views",
+        "peekOfCode": "class UserLoginView(LoginView):\n    template_name = \"login.html\"\n    redirect_authenticated_user=True\nclass SignUpView(CreateView):\n    model = User\n    form_class = UserSignupForm\n    template_name = \"register.html\"\n    success_url = reverse_lazy(\"todofeature:todo_list\")",
+        "detail": "useraccount.views",
+        "documentation": {}
+    },
+    {
+        "label": "SignUpView",
+        "kind": 6,
+        "importPath": "useraccount.views",
+        "description": "useraccount.views",
+        "peekOfCode": "class SignUpView(CreateView):\n    model = User\n    form_class = UserSignupForm\n    template_name = \"register.html\"\n    success_url = reverse_lazy(\"todofeature:todo_list\")",
+        "detail": "useraccount.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'todo.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
